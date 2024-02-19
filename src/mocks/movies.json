@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "sinopsis": "A skilled thief who enters the dreams of others to steal their secrets...",
+      "director_id": 1,
+      "genero_id": 1,
+      "cover": "https://example.com/inception.jpg",
+      "was_watched": true,
+      "rating": 4.5,
+      "actores": [
+        {"id": 1, "name": "Leonardo DiCaprio"},
+        {"id": 2, "name": "Joseph Gordon-Levitt"},
+        {"id": 3, "name": "Ellen Page"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "sinopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director_id": 2,
+      "genero_id": 2,
+      "cover": "https://example.com/shawshank_redemption.jpg",
+      "was_watched": true,
+      "rating": 4.8,
+      "actores": [
+        {"id": 4, "name": "Tim Robbins"},
+        {"id": 5, "name": "Morgan Freeman"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "sinopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham...",
+      "director_id": 3,
+      "genero_id": 3,
+      "cover": "https://example.com/dark_knight.jpg",
+      "was_watched": false,
+      "rating": 4.7,
+      "actores": [
+        {"id": 6, "name": "Christian Bale"},
+        {"id": 7, "name": "Heath Ledger"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Forrest Gump",
+      "sinopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "director_id": 4,
+      "genero_id": 4,
+      "cover": "https://example.com/forrest_gump.jpg",
+      "was_watched": true,
+      "rating": 4.6,
+      "actores": [
+        {"id": 8, "name": "Tom Hanks"},
+        {"id": 9, "name": "Robin Wright"}
+      ]
+    }
+  ]
